@@ -12,7 +12,7 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
 
 - VsCode
 - Angular CLI 17
-- NodeJs
+- NodeJs v20.11.1
 - Bootstrap 5
 - [API de Usuários](https://github.com/Lucas-dev23/apiUsuarios)
 - [API de Clientes](https://github.com/Lucas-dev23/apiClientes)
